@@ -2,6 +2,8 @@
 ## Cristian Camilo Vasquez Osorio - falabella
 ### Prueba realizada del 05/10/2021 al 06/10/2021
 
+## La aplicacion inicia de app/ en dicho directorio se encuentra INDEX
+
 ## En el desarrollo se ha utilizado
 * PHP V 8.0
 * Composer
@@ -35,11 +37,14 @@ Pueden confirmar mi experiencia como desarrollador en mi perfil de GITHUB con do
 * S.O.L.I.D (Responsabilidad unica, Principio de abierto/cerrado, Segregacion de interfaces, Inversion de dependencias)
 * Inyeccion de dependencias
 * POO
+* JSON WEB TOKEN
+* API KEY
 
 * https://github.com/cristianV0117/over-app - Es el FRONT que consume el API, implemento:
 * NEXT JS
 * SPA
 * Typescript
 * MDBBOOTSTRAP
+* JSON WEB TOKEN
 
 ### *¡Gracias!*
