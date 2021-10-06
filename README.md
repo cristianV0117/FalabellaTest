@@ -1,5 +1,5 @@
-# Prueba practica Symfony
-## Cristian Camilo Vasquez Osorio - Optime Consulting
+# Prueba practica FALABELLA
+## Cristian Camilo Vasquez Osorio - falabella
 ### Prueba realizada del 05/10/2021 al 06/10/2021
 
 ## En el desarrollo se ha utilizado
