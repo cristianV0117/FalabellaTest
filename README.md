@@ -27,13 +27,19 @@
 * El ejercicio quedó incompleto, cuando los multiplos son 3 y 5 y se debe retornar "INTEGRACIONES" no me fue posible realizarlo
 * El ejercicio retorna "Falabella" cuando es 3 y "IT" cuando es 5 utilizando unicamente un IF.
 
-Pueden confirmar mi experiencia como desarrollador en mi perfil de GITHUB con dos desarrollos que realice para fortalecer mis conocimientos y habilidades aparte de mi experiencia laboral
-*https://github.com/cristianV0117/over - Es una API hecho en LUMEN(Laravel) donde se implementa conceptos como:
+Pueden confirmar mi experiencia como desarrollador en mi perfil de GITHUB con dos desarrollos personales que realice para fortalecer mis conocimientos y habilidades aparte de mi experiencia laboral
+* https://github.com/cristianV0117/over - Es una API hecho en LUMEN(Laravel) donde se implementa conceptos como:
 * REST
 * HATEOAS
 * Arquitecturas MVC & ADR
 * S.O.L.I.D (Responsabilidad unica, Principio de abierto/cerrado, Segregacion de interfaces, Inversion de dependencias)
 * Inyeccion de dependencias
 * POO
+
+* https://github.com/cristianV0117/over-app - Es el FRONT que consume el API, implemento:
+* NEXT JS
+* SPA
+* Typescript
+* MDBBOOTSTRAP
 
 ### *¡Gracias!*
