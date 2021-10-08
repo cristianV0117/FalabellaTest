@@ -14,7 +14,8 @@ trait Values
     {
         return [
             "3" => "Falabella",
-            "5" => "IT"
+            "5" => "IT",
+            "35" => "Integraciones"
         ];
     }
 }
