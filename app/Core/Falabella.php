@@ -22,7 +22,6 @@ final class Falabella
     }
 
     /**
-     * @param array $multiples
      * @param int $index
      * @return string|int
      */

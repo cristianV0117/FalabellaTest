@@ -9,7 +9,7 @@ use Core\Falabella;
 class FalabellaTest extends TestCase
 {
     /** @test */
-    public function get_multiples()
+    public function get_array()
     {
         $falabella = new Falabella;
 

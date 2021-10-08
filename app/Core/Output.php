@@ -13,7 +13,6 @@ final class Output
      */
     public function json(array $request): string
     {
-        header('Content-Type: application/json; charset=utf-8');
         return json_encode($request);
     }
 }
