@@ -23,11 +23,10 @@
 * Utilizar conocimientos en S.O.L.I.D tales como, responsabilidad unica y Prinicipio de abierto/cerrado.
 * Implementar pruebas con PHPunit
 * Utilizar un lenguaje recomendado en el challenge, en este caso PHP
-* Una sola rama en GIT
+* Una sola rama en GIT (Main)
 
 ## Anotaciones
-* El ejercicio quedó incompleto, cuando los multiplos son 3 y 5 y se debe retornar "INTEGRACIONES" no me fue posible realizarlo
-* El ejercicio retorna "Falabella" cuando es 3 y "IT" cuando es 5 utilizando unicamente un IF.
+* El ejercicio retorna "Falabella" cuando es 3 y "IT" cuando es 5 y "Integraciones" cuando son ambos utilizando unicamente un IF.
 
 Pueden confirmar mi experiencia como desarrollador en mi perfil de GITHUB con dos desarrollos personales que realice para fortalecer mis conocimientos y habilidades aparte de mi experiencia laboral
 * https://github.com/cristianV0117/over - Es una API hecho en LUMEN(Laravel) donde se implementa conceptos como:
