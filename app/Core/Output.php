@@ -8,7 +8,7 @@ use Core\IOuput;
 final class Output implements IOuput
 {
     /**
-     * @param array
+     * @param array $request
      * @return string
      */
     public function json(array $request): string

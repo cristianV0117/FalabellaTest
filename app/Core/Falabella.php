@@ -7,17 +7,24 @@ namespace Core;
 use Core\IOuput;
 final class Falabella
 {
+    /**
+     * @trait Values
+     */
     use Values;
 
     private $ouput;
 
+    /**
+     * @method __construct()
+     * @param IOuput $ouput
+     */
     public function __construct(IOuput $ouput)
     {
         $this->ouput = $ouput;
     }
 
     /**
-     * @return array
+     * @return string
      */
     public function __invoke(): string
     {
