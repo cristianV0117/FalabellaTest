@@ -1,6 +1,6 @@
 # Prueba practica FALABELLA
 ## Cristian Camilo Vasquez Osorio - falabella
-### Prueba realizada del 05/10/2021 al 06/10/2021
+### Prueba realizada del 05/10/2021 al 08/10/2021
 
 ## La aplicacion inicia de app/ en dicho directorio se encuentra INDEX
 
@@ -20,7 +20,11 @@
 
 ## Objetivos cumplidos
 * Implementar unicamente un IF para el ejercicio
-* Utilizar conocimientos en S.O.L.I.D tales como, responsabilidad unica y Prinicipio de abierto/cerrado.
+* Utilizar conocimientos en S.O.L.I.D tales como:
+    * responsabilidad unica
+    * Prinicipio de abierto/cerrado
+    * Inversion de dependencias
+    * Segregacion de interfaces
 * Implementar pruebas con PHPunit
 * Utilizar un lenguaje recomendado en el challenge, en este caso PHP
 * Una sola rama en GIT (Main)
@@ -38,6 +42,7 @@ Pueden confirmar mi experiencia como desarrollador en mi perfil de GITHUB con do
 * POO
 * JSON WEB TOKEN
 * API KEY
+* PHPunit
 
 * https://github.com/cristianV0117/over-app - Es el FRONT que consume el API, implemento:
 * NEXT JS

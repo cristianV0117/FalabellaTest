@@ -4,8 +4,8 @@
  * @see https://github.com/cristianV0117
  */
 namespace Core;
-
-final class Output
+use Core\IOuput;
+final class Output implements IOuput
 {
     /**
      * @param array

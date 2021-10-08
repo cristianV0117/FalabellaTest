@@ -4,21 +4,30 @@
  * @see https://github.com/cristianV0117
  */
 namespace Core;
-
+use Core\IOuput;
 final class Falabella
 {
     use Values;
 
+    private $ouput;
+
+    public function __construct(IOuput $ouput)
+    {
+        $this->ouput = $ouput;
+    }
+
     /**
      * @return array
      */
-    public function __invoke(): array
+    public function __invoke(): string
     {
         $response = [];
+
         for ($index = 1; $index <= 100; $index++) {
             array_push($response, $this->getMultipleNumberValue($index));
         }
-        return $response;
+
+        return $this->ouput->json($response);
     }
 
     /**
