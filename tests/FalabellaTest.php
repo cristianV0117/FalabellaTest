@@ -4,15 +4,15 @@
  * @see https://github.com/cristianV0117
  */
 use PHPUnit\Framework\TestCase;
-use Core\Falabella;
+use Core\{Falabella, Output};
 
 class FalabellaTest extends TestCase
 {
     /** @test */
     public function get_array()
     {
-        $falabella = new Falabella;
+        $falabella = new Falabella(new Output);
 
-        $this->assertIsArray($falabella->__invoke());
+        $this->assertIsString($falabella->__invoke());
     }
 }
